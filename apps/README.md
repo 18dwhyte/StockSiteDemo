@@ -13,7 +13,7 @@ Be sure to install the necessary node modules using `npm install [insert node mo
 For privacy reasons, I have removed my API KEY and Database Connection URL from this Demo. If you would like a LIVE Demo be sure to ask (email: 18dwhyte.stem@gmail.com) and I can provide one as it will be stored locally on my computer. Or you can create your own free MongoDB and get a free API key from Finnhub.io
 
 ## The Goal
-I wanted to learn more about Angular so I focused on learning Typescript, how to set-up components and backend, and sending HTTP requests.
+I wanted to learn more about Angular so I focused on learning Typescript, how to set-up components and backend, and sending HTTP requests. I additionally added Bootstrap so I could learn how to configure it to my project.
 
 ## Database Connection
 <img width="1440" alt="Screen Shot 2022-07-24 at 12 46 55 PM" src="https://user-images.githubusercontent.com/61035062/180663193-3bf8187c-6e15-4bd2-92a8-6645e6296606.png">
